@@ -1,6 +1,6 @@
 package com.anasajimuhammed.developer;
 
-public class Main {
+public class PrintBasics {
 
     public static void main(String[] args) {
         System.out.print("Hellow Anas \n");
